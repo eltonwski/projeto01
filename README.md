@@ -49,4 +49,8 @@ Esse projeto está sob a licença MIT.
 
 ---
 
+<<<<<<< HEAD
 Feito por Elton Lesniowski :wave:
+=======
+Feito por Elton Lesniowski
+>>>>>>> 8225c548fdf0b8a87f7a268959d5d9dae0645d89
